@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/hamdiboukamcha" target="blank">
+    <a href="https://www.linkedin.com/in/hamdi-boukamcha/" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn Profile" height="30" width="40" />
     </a>
 </p>
